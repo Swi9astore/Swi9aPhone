@@ -1,0 +1,49 @@
+{
+  "name": "swi9a-phone-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Swi9a Phone - Morocco's Premier iPhone Destination",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iphone",
+    "refurbished",
+    "morocco",
+    "e-commerce"
+  ],
+  "author": "Swi9a Phone",
+  "license": "PROPRIETARY",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.0.1",
+    "helmet": "^8.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.4",
+    "morgan": "^1.10.1",
+    "multer": "^2.0.2",
+    "nodemailer": "^7.0.5"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/compression": "^1.8.1",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/morgan": "^1.9.10",
+    "@types/multer": "^2.0.0",
+    "@types/node": "^24.0.15",
+    "@types/nodemailer": "^6.4.17",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

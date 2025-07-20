@@ -1,0 +1,202 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "learnMore": "En savoir plus",
+    "viewAll": "Voir tout",
+    "addToCart": "Ajouter au panier",
+    "buyNow": "Acheter maintenant",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "products": "Produits",
+    "iphone15": "iPhone 15",
+    "iphone14": "iPhone 14",
+    "iphone13": "iPhone 13",
+    "iphone12": "iPhone 12",
+    "services": "Services",
+    "refurbishment": "Reconditionnement",
+    "warranty": "Garantie",
+    "support": "Support",
+    "tradein": "Échange",
+    "repair": "Réparation",
+    "about": "À propos",
+    "contact": "Contact",
+    "cart": "Panier",
+    "account": "Compte",
+    "admin": "Admin"
+  },
+  "hero": {
+    "headline": "Destination iPhone Première du Maroc",
+    "subheadline": "iPhone reconditionnés premium soutenus par une technologie de pointe et une expertise inégalée. Appareils de qualité à des prix incroyables.",
+    "cta": "Acheter maintenant",
+    "badges": {
+      "warranty": "Garantie 30 jours",
+      "expert": "Reconditionnement expert",
+      "delivery": "Livraison rapide",
+      "quality": "Qualité garantie"
+    }
+  },
+  "featured": {
+    "title": "iPhone en vedette",
+    "subtitle": "Découvrez notre sélection triée sur le volet d'iPhone reconditionnés premium, chacun méticuleusement restauré à l'état neuf.",
+    "series": {
+      "iphone15": "Série iPhone 15",
+      "iphone14": "Série iPhone 14",
+      "iphone13": "Série iPhone 13",
+      "iphone12": "Série iPhone 12"
+    }
+  },
+  "process": {
+    "title": "Notre processus de reconditionnement",
+    "description": "Chaque appareil subit notre processus rigoureux d'inspection et de restauration en 32 points pour garantir une qualité premium.",
+    "steps": {
+      "inspection": "Inspection initiale",
+      "restoration": "Restauration professionnelle",
+      "testing": "Test de qualité",
+      "certification": "Certification finale"
+    }
+  },
+  "tradein": {
+    "title": "Programme d'échange",
+    "description": "Obtenez une valeur instantanée pour votre ancien appareil lors de la mise à niveau vers un iPhone reconditionné.",
+    "status": "Bientôt disponible"
+  },
+  "repair": {
+    "title": "Services de réparation",
+    "description": "Services de réparation iPhone professionnels avec des pièces d'origine et garantie.",
+    "status": "Disponible"
+  },
+  "support": {
+    "title": "Support expert",
+    "description": "Obtenez de l'aide de nos techniciens certifiés et de notre équipe de support client.",
+    "status": "Disponible 24/7"
+  },
+  "testimonials": {
+    "title": "Ce que disent nos clients",
+    "customers": {
+      "ahmed": {
+        "name": "Ahmed El Mansouri",
+        "title": "Cadre dirigeant",
+        "location": "Casablanca",
+        "comment": "Qualité et service exceptionnels. Mon iPhone 14 Pro a l'air et fonctionne comme neuf. La garantie me donne une tranquillité d'esprit complète."
+      },
+      "fatima": {
+        "name": "Fatima Benali",
+        "title": "Responsable marketing digital",
+        "location": "Rabat",
+        "comment": "Livraison rapide et excellent service client. L'iPhone 13 reconditionné a dépassé mes attentes. Hautement recommandé !"
+      },
+      "youssef": {
+        "name": "Youssef Alami",
+        "title": "Ingénieur logiciel",
+        "location": "Marrakech",
+        "comment": "Excellents prix et qualité. Le processus d'échange était fluide et le nouvel iPhone fonctionne parfaitement. J'achèterai certainement à nouveau."
+      }
+    }
+  },
+  "metrics": {
+    "title": "Notre impact",
+    "customers": "+15 000 clients satisfaits",
+    "devices": "+25 000 appareils reconditionnés",
+    "satisfaction": "98% de taux de satisfaction",
+    "cities": "12 villes desservies"
+  },
+  "about": {
+    "title": "À propos de Swi9a Phone",
+    "founded": "Fondé en 2025",
+    "description": "Combine une technologie de pointe avec les valeurs marocaines traditionnelles de confiance et de qualité.",
+    "highlights": {
+      "quality": "Qualité premium",
+      "sustainable": "Choix durable"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "form": {
+      "firstName": "Prénom",
+      "lastName": "Nom de famille",
+      "email": "Adresse e-mail",
+      "phone": "Numéro de téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "subjects": {
+        "general": "Demande générale",
+        "support": "Support technique",
+        "sales": "Question de vente",
+        "warranty": "Réclamation de garantie",
+        "repair": "Service de réparation"
+      },
+      "submit": "Envoyer le message"
+    },
+    "info": {
+      "store": "Magasin principal : Casablanca, Maroc",
+      "phones": "Téléphone : +212-XXX-XXX-XXX, +1-403-383-4395",
+      "emails": "E-mail : contact@swi9aphone.com, sales@swi9aphone.com",
+      "hours": "Heures : Lun-Ven : 9h00-19h00, Sam-Dim : 10h00-18h00"
+    }
+  },
+  "footer": {
+    "tagline": "La destination première du Maroc pour les iPhone reconditionnés premium.",
+    "products": {
+      "title": "Produits",
+      "iphone15": "iPhone 15",
+      "iphone14": "iPhone 14",
+      "iphone13": "iPhone 13",
+      "iphone12": "iPhone 12",
+      "accessories": "Accessoires"
+    },
+    "services": {
+      "title": "Services",
+      "refurbishment": "Reconditionnement",
+      "warranty": "Garantie",
+      "support": "Support",
+      "tradein": "Échange",
+      "repair": "Réparation"
+    },
+    "company": {
+      "title": "Entreprise",
+      "about": "À propos",
+      "process": "Notre processus",
+      "careers": "Carrières",
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions de service"
+    }
+  },
+  "product": {
+    "condition": "État",
+    "storage": "Stockage",
+    "color": "Couleur",
+    "warranty": "Garantie",
+    "inStock": "En stock",
+    "outOfStock": "Rupture de stock",
+    "specifications": "Spécifications",
+    "description": "Description",
+    "price": "Prix",
+    "originalPrice": "Prix d'origine",
+    "savings": "Vous économisez",
+    "addToCart": "Ajouter au panier",
+    "buyNow": "Acheter maintenant"
+  },
+  "cart": {
+    "title": "Panier d'achat",
+    "empty": "Votre panier est vide",
+    "total": "Total",
+    "checkout": "Commande",
+    "continueShopping": "Continuer les achats",
+    "remove": "Supprimer",
+    "quantity": "Quantité"
+  }
+}
