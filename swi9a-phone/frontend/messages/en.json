@@ -1,0 +1,202 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "next": "Next",
+    "previous": "Previous",
+    "learnMore": "Learn More",
+    "viewAll": "View All",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp"
+  },
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "iphone15": "iPhone 15",
+    "iphone14": "iPhone 14",
+    "iphone13": "iPhone 13",
+    "iphone12": "iPhone 12",
+    "services": "Services",
+    "refurbishment": "Refurbishment",
+    "warranty": "Warranty", 
+    "support": "Support",
+    "tradein": "Trade-in",
+    "repair": "Repair",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "account": "Account",
+    "admin": "Admin"
+  },
+  "hero": {
+    "headline": "Morocco's Premier iPhone Destination",
+    "subheadline": "Premium refurbished iPhones backed by cutting-edge technology and unmatched expertise. Quality devices at incredible prices.",
+    "cta": "Shop Now",
+    "badges": {
+      "warranty": "30-Day Warranty",
+      "expert": "Expert Refurbishment",
+      "delivery": "Fast Delivery",
+      "quality": "Quality Guaranteed"
+    }
+  },
+  "featured": {
+    "title": "Featured iPhones",
+    "subtitle": "Discover our handpicked selection of premium refurbished iPhones, each meticulously restored to like-new condition.",
+    "series": {
+      "iphone15": "iPhone 15 Series",
+      "iphone14": "iPhone 14 Series", 
+      "iphone13": "iPhone 13 Series",
+      "iphone12": "iPhone 12 Series"
+    }
+  },
+  "process": {
+    "title": "Our Refurbishment Process",
+    "description": "Every device undergoes our rigorous 32-point inspection and restoration process to ensure premium quality.",
+    "steps": {
+      "inspection": "Initial Inspection",
+      "restoration": "Professional Restoration", 
+      "testing": "Quality Testing",
+      "certification": "Final Certification"
+    }
+  },
+  "tradein": {
+    "title": "Trade-In Program",
+    "description": "Get instant value for your old device when upgrading to a refurbished iPhone.",
+    "status": "Coming Soon"
+  },
+  "repair": {
+    "title": "Repair Services",
+    "description": "Professional iPhone repair services with genuine parts and warranty.",
+    "status": "Available"
+  },
+  "support": {
+    "title": "Expert Support", 
+    "description": "Get help from our certified technicians and customer support team.",
+    "status": "24/7 Available"
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "customers": {
+      "ahmed": {
+        "name": "Ahmed El Mansouri",
+        "title": "Business Executive",
+        "location": "Casablanca",
+        "comment": "Exceptional quality and service. My iPhone 14 Pro looks and works like brand new. The warranty gives me complete peace of mind."
+      },
+      "fatima": {
+        "name": "Fatima Benali",
+        "title": "Digital Marketing Manager", 
+        "location": "Rabat",
+        "comment": "Fast delivery and excellent customer service. The refurbished iPhone 13 exceeded my expectations. Highly recommended!"
+      },
+      "youssef": {
+        "name": "Youssef Alami",
+        "title": "Software Engineer",
+        "location": "Marrakech", 
+        "comment": "Great prices and quality. The trade-in process was smooth and the new iPhone works perfectly. Will definitely buy again."
+      }
+    }
+  },
+  "metrics": {
+    "title": "Our Impact",
+    "customers": "15,000+ Happy Customers",
+    "devices": "25,000+ Devices Refurbished", 
+    "satisfaction": "98% Satisfaction Rate",
+    "cities": "12 Cities Served"
+  },
+  "about": {
+    "title": "About Swi9a Phone",
+    "founded": "Founded in 2025",
+    "description": "Combines cutting-edge technology with traditional Moroccan values of trust and quality.",
+    "highlights": {
+      "quality": "Premium Quality",
+      "sustainable": "Sustainable Choice"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name", 
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "subjects": {
+        "general": "General Inquiry",
+        "support": "Technical Support",
+        "sales": "Sales Question",
+        "warranty": "Warranty Claim",
+        "repair": "Repair Service"
+      },
+      "submit": "Send Message"
+    },
+    "info": {
+      "store": "Main Store: Casablanca, Morocco",
+      "phones": "Phone: +212-XXX-XXX-XXX, +1-403-383-4395",
+      "emails": "Email: contact@swi9aphone.com, sales@swi9aphone.com",
+      "hours": "Hours: Mon–Fri: 9:00–19:00, Sat–Sun: 10:00–18:00"
+    }
+  },
+  "footer": {
+    "tagline": "Morocco's premier destination for premium refurbished iPhones.",
+    "products": {
+      "title": "Products",
+      "iphone15": "iPhone 15",
+      "iphone14": "iPhone 14", 
+      "iphone13": "iPhone 13",
+      "iphone12": "iPhone 12",
+      "accessories": "Accessories"
+    },
+    "services": {
+      "title": "Services",
+      "refurbishment": "Refurbishment",
+      "warranty": "Warranty",
+      "support": "Support", 
+      "tradein": "Trade-in",
+      "repair": "Repair"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About",
+      "process": "Our Process",
+      "careers": "Careers",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    }
+  },
+  "product": {
+    "condition": "Condition",
+    "storage": "Storage",
+    "color": "Color",
+    "warranty": "Warranty",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "specifications": "Specifications",
+    "description": "Description",
+    "price": "Price",
+    "originalPrice": "Original Price",
+    "savings": "You Save",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "checkout": "Checkout",
+    "continueShopping": "Continue Shopping",
+    "remove": "Remove",
+    "quantity": "Quantity"
+  }
+}
